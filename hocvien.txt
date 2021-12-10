@@ -1,0 +1,49 @@
+8
+HS201105
+Nguyen Van An
+TOAN
+8
+CSDL
+9
+HS201103
+Tran Thanh Binh
+TOAN
+8
+OOP
+9
+HS201107
+Pham Van Thanh
+VALY
+10
+OOP
+9
+HS201102
+Nguyen Van Danh
+DSTT
+9
+CTDL
+10
+HS201104
+Tran Thanh Dat
+TOAN
+9
+KTLT
+9
+HS201106
+Vo Hong Duy
+DSTT
+9
+NMLT
+7
+HS201101
+Nguyen Phan Hong Duy
+TRIET
+10
+OOP
+9
+HS201108
+Nguyen Tran Duy Nhat
+TRR
+9
+CSDL
+10
